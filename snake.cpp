@@ -3,7 +3,7 @@
 #include <windows.h>//ccc
 #include <vector>
 #include <cstdlib> // vclluon
-#include <ctime>
+#include <ctime> // toi test thu
 
 using namespace std;
 
