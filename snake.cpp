@@ -2,7 +2,7 @@
 #include <conio.h> //dmmm
 #include <windows.h>//ccc
 #include <vector>
-#include <cstdlib>//cdlbs
+#include <cstdlib>
 #include <ctime>
 
 using namespace std;
